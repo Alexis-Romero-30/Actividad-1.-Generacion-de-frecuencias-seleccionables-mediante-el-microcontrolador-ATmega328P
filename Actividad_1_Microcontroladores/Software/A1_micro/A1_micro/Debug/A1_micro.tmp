@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\Debug\A1_micro.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>A1_micro.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>A1_micro.map</FILE>
+  <FILE>A1_micro.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</FILE><LINE>31</LINE></RESET>
+  <MAIN><FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</FILE><LINE>53</LINE></MAIN>
+  <FREQ_100K><FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</FILE><LINE>79</LINE></FREQ_100K>
+  <FREQ_500K><FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</FILE><LINE>108</LINE></FREQ_500K>
+  <FREQ_1M><FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</FILE><LINE>139</LINE></FREQ_1M>
+  <FREQ_2M><FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</FILE><LINE>165</LINE></FREQ_2M>
+  <RETARDO_100K><FILE>C:\Users\Default.LAPTOP-6PO6PU5S\Desktop\Microcontroladores\microchip studio\sdk2027\A1_micro\A1_micro\main.asm</FILE><LINE>84</LINE></RETARDO_100K>
+ </LABELS>
+</ASSEMBLER_INFO>
